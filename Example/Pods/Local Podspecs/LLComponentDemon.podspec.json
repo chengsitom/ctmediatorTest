@@ -1,0 +1,22 @@
+{
+  "name": "LLComponentDemon",
+  "version": "0.1.0",
+  "summary": "A short description of LLComponentDemon.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chengsitom@163.com/LLComponentDemon",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chengsitom@163.com": "chengsitom@163.com"
+  },
+  "source": {
+    "git": "https://github.com/chengsitom@163.com/LLComponentDemon.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LLComponentDemon/Classes/**/*"
+}

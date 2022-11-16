@@ -7,6 +7,7 @@
 //
 
 #import "LLCViewController.h"
+#import "CTMediator.h"
 
 @interface LLCViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [[CTMediator sharedInstance] performActionWithUrl:@"" completion:nil];
 }
 
 - (void)didReceiveMemoryWarning

@@ -1,0 +1,16 @@
+PODS:
+  - LLComponentDemon (0.1.0)
+
+DEPENDENCIES:
+  - LLComponentDemon (from `../`)
+
+EXTERNAL SOURCES:
+  LLComponentDemon:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LLComponentDemon: 0fc555eb3af836015d52c60bb2d4aef21b81e275
+
+PODFILE CHECKSUM: 7828bdb46e91037951cbc7ffac8d5dc6b403c676
+
+COCOAPODS: 1.10.0
